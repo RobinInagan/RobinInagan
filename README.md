@@ -1,23 +1,21 @@
-# Hola, soy Robinson Ochoa
+# Perfil de Robinson Ochoa
 
-Soy tecnólogo en sistematización de datos con una pasión por la programación y el desarrollo de software de alta calidad. Me caracterizo por aprender rápidamente y estar comprometido con mis labores. Mi enfoque principal se centra en el desarrollo backend, donde puedo crear un código sólido y eficiente, pero estoy dispuesto a asumir cualquier desafío que se me presente.
+Soy tecnólogo en sistematización de datos, me caracterizo por aprender rápido y ser alguien comprometido con sus labores. Mi enfoque va en el desarrollo back-end debido a que es mi fuerte codificando y donde puedo desarrollar un código de calidad, sin embargo, puedo realizar cualquier labor que me sea asignada.
 
 ## Conocimientos Específicos
 
-- JavaScript.
-- Node.js.
-- Python.
-- SQL.
-- Inglés Intermedio (Nivel B1).
-- Desarrollo bajo metodologías ágiles, como SCRUM.
-- Análisis y resolución de requerimientos funcionales.
+- ![JavaScript](https://i0.wp.com/blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png?fit=587%2C330&ssl=1) JavaScript.
+- ![Node.js](https://cdn-icons-png.flaticon.com/512/919/919825.png) Node.js.
+- ![Python](https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png) Python.
+- ![SQL](https://e7.pngegg.com/pngimages/369/459/png-clipart-logo-mysql-cluster-database-oracle-corporation-sql-logo-blue-text-thumbnail.png) SQL.
+- ![Desarrollo bajo tecnologías ágiles (SCRUM)](/ruta/a/la/imagen/de/scrum.png) Desarrollo bajo tecnologías ágiles (SCRUM).
 
-## Conéctate conmigo
+- 
 
-[![Twitter](LOGO_DE_TWITTER.png)](URL_DE_TU_PERFIL_EN_TWITTER)
-[![LinkedIn](LOGO_DE_LINKEDIN.png)](URL_DE_TU_PERFIL_EN_LINKEDIN)
-[![GitHub](LOGO_DE_GITHUB.png)](URL_DE_TU_PERFIL_EN_GITHUB)
-[![Correo Electrónico](LOGO_DE_CORREO.png)](mailto:TU_CORREO_ELECTRÓNICO)
+## Contacto
 
-¡No dudes en contactarme para colaboraciones o cualquier consulta!
+- Email: [tu@email.com](mailto:robinsonochoa4@gmail.com)
+- LinkedIn: [tu perfil de LinkedIn]((https://www.linkedin.com/in/robinson-stiven-inagan-ochoa-12a53125b/))
+- 
+---
 
