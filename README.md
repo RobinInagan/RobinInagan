@@ -15,7 +15,7 @@ Soy tecnólogo en sistematización de datos, me caracterizo por aprender rápido
 ## Contacto
 <div align="center">
 <a href="mailto:sdmejiac@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a>
-<a href="https://www.linkedin.com/in/robinson-stiven-inagan-ochoa-12a53125b/"><img src="[https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg](https://icones.pro/wp-content/uploads/2021/03/linkedin-icone.png)https://icones.pro/wp-content/uploads/2021/03/linkedin-icone.png" width="30px" alt="Linkedin"></a> 
+<a href="https://www.linkedin.com/in/robinson-stiven-inagan-ochoa-12a53125b/"><img src="https://icones.pro/wp-content/uploads/2021/03/linkedin-icone.png" width="30px" alt="Linkedin"></a> 
 </div>
 ---
 
