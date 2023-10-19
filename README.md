@@ -5,7 +5,7 @@ Soy tecnólogo en sistematización de datos, me caracterizo por aprender rápido
 ## Conocimientos Específicos
 
 <div align="center">
-   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://i0.wp.com/blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png?fit=587%2C330&ssl=1" width="125" height="80" alt="JavaScript"></a>
+   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" alt="JavaScript"></a>
    <a href="https://nodejs.org/es/docs"><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="100" alt="Node.js"></a>
    <a href="https://www.python.org/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" width="100" alt="Python"></a>
    <a href="https://www.mysql.com/"><img src="https://e7.pngegg.com/pngimages/369/459/png-clipart-logo-mysql-cluster-database-oracle-corporation-sql-logo-blue-text-thumbnail.png" width="100" alt="SQL"></a>
@@ -14,8 +14,8 @@ Soy tecnólogo en sistematización de datos, me caracterizo por aprender rápido
 
 ## Contacto
 <div align="center">
-<a href="mailto:sdmejiac@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a>
-<a href="https://www.linkedin.com/in/robinson-stiven-inagan-ochoa-12a53125b/"><img src="https://icones.pro/wp-content/uploads/2021/03/linkedin-icone.png" width="30px" alt="Linkedin"></a> 
+<a href="mailto:robinsonochoa4@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a>
+<a href="https://www.linkedin.com/in/robinson-stiven-inagan-ochoa-12a53125b/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" alt="Linkedin"></a> 
 </div>
----
+
 
