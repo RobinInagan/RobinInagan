@@ -6,7 +6,7 @@ Soy tecnólogo en sistematización de datos, me caracterizo por aprender rápido
 
 <div align="center">
    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" alt="JavaScript"></a>
-   <a href="https://nodejs.org/es/docs"><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="100" alt="Node.js"></a>
+   <a href="https://nodejs.org/en/about"><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="100" alt="Node.js"></a>
    <a href="https://www.python.org/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" width="100" alt="Python"></a>
    <a href="https://www.mysql.com/"><img src="https://e7.pngegg.com/pngimages/369/459/png-clipart-logo-mysql-cluster-database-oracle-corporation-sql-logo-blue-text-thumbnail.png" width="100" alt="SQL"></a>
    <a href="https://www.scrum.org/"><img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" width="100" alt="Desarrollo bajo tecnologías ágiles (SCRUM)"></a>
